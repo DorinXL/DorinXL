@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=DorinXL" alt="访客统计" />
 <!--   </div> -->
-  <img src="img/ch_img_rin.png" style="float:right" width="10%" align ="right">
+  <img src="https://img2022.cnblogs.com/blog/1858293/202208/1858293-20220808231220995-1230507815.png" style="float:right" width="10%" align ="right">
 </div>
  
 ##  🕹️ 很高兴认识你
