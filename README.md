@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <img src="img/ch_img_len.png" style="float:left;" width="10%" align ="left">
+  <img src="https://img2022.cnblogs.com/blog/1858293/202208/1858293-20220808231217658-1620536017.png" style="float:left;" width="10%" align ="left">
 <!--   <div align="center"> -->
   <a href="https://www.cnblogs.com/DorinXL/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/3217550/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
