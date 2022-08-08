@@ -21,13 +21,17 @@ Here are some ideas to get you started:
 
 <!-- 个人资料徽标 -->
 <div align="center">
+  <img src="img/ch_img_len.png" style="float:left;" width="10%" align ="left">
+<!--   <div align="center"> -->
   <a href="https://www.cnblogs.com/DorinXL/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/3217550/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://leetcode.cn/u/dorinxl-2/"><img src="https://img.shields.io/badge/leetcode-%E5%8A%9B%E6%89%A3-c32136"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=DorinXL" alt="访客统计" /></div>
-  
-
+  <img src="https://visitor-badge.glitch.me/badge?page_id=DorinXL" alt="访客统计" />
+<!--   </div> -->
+  <img src="img/ch_img_rin.png" style="float:right" width="10%" align ="right">
+</div>
+ 
 ##  🕹️ 很高兴认识你
 > 请允许我自我介绍一下自己~
 - 🆙 你好，我是DorinXL，取自「荡影」的谐音。
