@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://space.bilibili.com/3217550/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://leetcode.cn/u/dorinxl-2/"><img src="https://img.shields.io/badge/leetcode-%E5%8A%9B%E6%89%A3-c32136"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=DorinXL" alt="访客统计" />
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=DorinXL" alt="访客统计" /> -->
 <!--   </div> -->
   <img src="https://img2022.cnblogs.com/blog/1858293/202208/1858293-20220808231220995-1230507815.png" style="float:right" width="10%" align ="right">
 </div>
