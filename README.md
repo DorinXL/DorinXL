@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Hey, I'm DorinXL!
 </h1>
 
-/*
+
 <!-- 个人资料徽标 -->
 <div align="center">
   <img src="https://img2022.cnblogs.com/blog/1858293/202208/1858293-20220808231217658-1620536017.png" style="float:left;" width="10%" align ="left">
@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <!--   </div> -->
   <img src="https://img2022.cnblogs.com/blog/1858293/202208/1858293-20220808231220995-1230507815.png" style="float:right" width="10%" align ="right">
 </div>
- 
+
+
+ <!--
 ##  🕹️ 很高兴认识你
 > 请允许我自我介绍一下自己~
 - 🆙 你好，我是DorinXL，取自「荡影」的谐音。
@@ -52,5 +54,6 @@ Here are some ideas to get you started:
 
 ## 🤖 有朋自远方来
 > 常来看看
-*/
+-->
+
 ![Visitor Count](https://profile-counter.glitch.me/DorinXL/count.svg)
