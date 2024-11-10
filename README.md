@@ -58,4 +58,7 @@ Here are some ideas to get you started:
 > 常来看看
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorinXL&layout=compact&langs_count=10&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=DorinXL&layout=compact&langs_count=10)
+
+
 ![Visitor Count](https://profile-counter.glitch.me/DorinXL/count.svg)
